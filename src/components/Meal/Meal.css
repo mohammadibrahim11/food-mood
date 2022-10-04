@@ -1,0 +1,28 @@
+.card{
+    border: 1px solid gainsboro;
+    border-radius: 9px;
+    background-color: ghostwhite;
+}
+.mealtitle{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: orangered;
+    text-decoration: underline;
+    margin-top: 12px;
+}
+
+.mealtext{
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    color: brown;
+    font-weight: 600;
+}
+
+.btn{
+    border: 1px solid tomato;
+    color: orange;
+    margin: 5px;
+}
+.btn:hover{
+  color:orangered
+}
